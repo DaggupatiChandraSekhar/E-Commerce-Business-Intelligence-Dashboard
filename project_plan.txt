@@ -1,0 +1,77 @@
+E-COMMERCE BUSINESS INTELLIGENCE PROJECT
+PROJECT PLAN
+
+1. BUSINESS OBJECTIVE
+
+Develop an interactive E-Commerce Business Intelligence dashboard that helps management monitor sales and profitability, identify important sales trends and business drivers, evaluate regional, product, and customer-segment performance, identify risks and opportunities, and support data-driven business decisions.
+
+
+2. KEY BUSINESS QUESTIONS
+
+KPIs — What is happening?
+- What are the total sales?
+- What is the total profit?
+- How many orders have been placed?
+- How many units have been sold?
+- What is the average order value?
+- What is the overall profit margin?
+
+Trends — Where are we heading?
+- How are monthly sales changing over time?
+- How is monthly profit changing over time?
+- How is order volume changing over time?
+
+Drivers — Why is performance changing?
+- Which regions generate the most sales and profit?
+- Which countries generate the most sales and profit?
+- Which product categories perform best?
+- Which products generate the most sales and profit?
+- How do different customer segments perform?
+- Which payment methods are most frequently used?
+
+Risks & Opportunities
+- Which products or categories have low profitability?
+- Are there areas with high sales but relatively low profit?
+- Which areas have high shipping costs?
+- How do discounts relate to sales and profit?
+
+Actions
+- Identify products and categories that require management attention.
+- Identify regions and countries with strong or weak performance.
+- Investigate areas where profitability can be improved.
+- Use dashboard insights to support inventory, pricing, discount, and business strategy decisions.
+
+
+3. CORE KPIs
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Quantity Sold
+- Average Order Value
+- Profit Margin
+
+
+4. MAIN ANALYSIS DIMENSIONS
+
+- Order Date
+- Customer Segment
+- Country
+- Region
+- Product Category
+- Product Name
+- Payment Method
+
+
+5. PROJECT OUTPUT
+
+Create an interactive E-Commerce Business Intelligence dashboard with:
+- KPI cards
+- Sales and profit trend charts
+- Regional and country analysis
+- Product and category analysis
+- Customer segment analysis
+- Payment method analysis
+- Risk and opportunity analysis
+- Interactive filters
+- Business insights and recommended management actions
